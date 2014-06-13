@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1402482077 source:c:\users\wang\desktop\网络实验三\superserver\main.cpp
+	<iostream>
+	"stdafx.h"
+	"ServerFunction.h"
+
+1402480279 c:\users\wang\desktop\网络实验三\superserver\stdafx.h
+	<iostream>
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<fstream>
+	<cstring>
+	<winsock2.h>
+	<windows.h>
+	"Socket.h"
+	"ServerFunction.h"
+
+1402477605 c:\users\wang\desktop\网络实验三\superserver\socket.h
+	<iostream>
+	"WinSock2.h"
+	<stdio.h>
+
+1402481490 source:c:\users\wang\desktop\网络实验三\superserver\socket.cpp
+	"Socket.h"
+
+1402482001 source:c:\users\wang\desktop\网络实验三\superserver\serverfunction.cpp
+	"stdafx.h"
+
+1402480169 c:\users\wang\desktop\网络实验三\superserver\serverfunction.h
+
+1402560899 source:c:\users\wang\desktop\网络实验三\better\superserver\main.cpp
+	<iostream>
+	"stdafx.h"
+	"ServerFunction.h"
+
+1402480279 c:\users\wang\desktop\网络实验三\better\superserver\stdafx.h
+	<iostream>
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<fstream>
+	<cstring>
+	<winsock2.h>
+	<windows.h>
+	"Socket.h"
+	"ServerFunction.h"
+
+1402539222 c:\users\wang\desktop\网络实验三\better\superserver\socket.h
+	<iostream>
+	"WinSock2.h"
+	<stdio.h>
+
+1402480169 c:\users\wang\desktop\网络实验三\better\superserver\serverfunction.h
+
+1402542056 source:c:\users\wang\desktop\网络实验三\better\superserver\socket.cpp
+	"Socket.h"
+
+1402559591 source:c:\users\wang\desktop\网络实验三\better\superserver\serverfunction.cpp
+	"stdafx.h"
+
